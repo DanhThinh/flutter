@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "840929554846",
+    "project_id": "hjarnfokus-e6468",
+    "storage_bucket": "hjarnfokus-e6468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840929554846:android:c42b5d33a11e943596268f",
+        "android_client_info": {
+          "package_name": "com.example.apphjarnfokus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840929554846-sf79ikfa40pld37ak7iopvlmf4s2kmqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtKCNzbcYK2lGXXnpJ_MPvfXDYFCQdYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840929554846-sf79ikfa40pld37ak7iopvlmf4s2kmqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840929554846:android:5c430e14aa22750b96268f",
+        "android_client_info": {
+          "package_name": "com.example.hjarnfokus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840929554846-sf79ikfa40pld37ak7iopvlmf4s2kmqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtKCNzbcYK2lGXXnpJ_MPvfXDYFCQdYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840929554846-sf79ikfa40pld37ak7iopvlmf4s2kmqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
